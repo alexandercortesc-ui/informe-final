@@ -11,12 +11,11 @@ Maria Paula cardenas <br />
 Programació<pn, II-2025 <br />
 GDSPROC <br />
 Uniquindío <br />
-</h1>
-
- # docente 
- <p align="center">
- Alexander parrado 
+<p align="center">
+ docente:Alexander parrado 
  2026
+ </p> 
+
  # Resumen 
  El propósito de este proyecto fue la realización de un código en el cual se demuestra 
 la implementación de la lógica de programación y la adición de una interfaz gráfica, en el 
